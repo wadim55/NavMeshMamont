@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\One\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\One\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_NavemshBest.1546653809.00" t="ExcludeRecursive" />
+    <e p="C:\work\Learners\T.Peter\game\T.Peter-\NavemshBest" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="FieldOfView" t="Include">
+          <e p="Core" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="FieldOfViewConfigurationEditor.cs" t="Include" />
+                <e p="FieldOfViewSkinEditor.cs" t="Include" />
+                <e p="SkinMaterialBuilder.cs" t="Include" />
+              </e>
+              <e p="FieldOfView.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="SkinSwapShader.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Demo" t="Include">
+            <e p="DevGuideDemo" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Coin.cs" t="Include" />
+                <e p="Enemy.cs" t="Include" />
+                <e p="GameStateManager.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+              </e>
+            </e>
+            <e p="PerformanceTest" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="FpsMeter.cs" t="Include" />
+                <e p="Spawner.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SimpleGame" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="EnemyController.cs" t="Include" />
+                <e p="GameManager.cs" t="Include" />
+                <e p="PathVisualizer.cs" t="Include" />
+                <e p="PlayerController.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="NavMeshComponents" t="Include">
+            <e p="Editor" t="Include">
+              <e p="NavMeshAssetManager.cs" t="Include" />
+              <e p="NavMeshComponentsEditor.asmdef" t="Include" />
+              <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+              <e p="NavMeshLinkEditor.cs" t="Include" />
+              <e p="NavMeshModifierEditor.cs" t="Include" />
+              <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+              <e p="NavMeshSurfaceEditor.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="NavMeshComponents.asmdef" t="Include" />
+              <e p="NavMeshLink.cs" t="Include" />
+              <e p="NavMeshModifier.cs" t="Include" />
+              <e p="NavMeshModifierVolume.cs" t="Include" />
+              <e p="NavMeshSurface.cs" t="Include" />
+              <e p="Player.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Invector-3rdPersonController" t="Include">
+          <e p="Basic Locomotion" t="Include">
+            <e p="3D Models" t="Include">
+              <e p="Others" t="Include">
+                <e p="HealthItem" t="Include">
+                  <e p="vAnimateUV.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Changelog_Basic.txt" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="vTriplanar.shader" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Camera" t="Include">
+                <e p="CullingFadeControl" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vCullingFadeControlEditor.cs" t="Include" />
+                  </e>
+                  <e p="vCullingFadeControl.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="vScriptableObjectUtility.cs" t="Include" />
+                  <e p="vThirdPersonCameraEditor.cs" t="Include" />
+                </e>
+                <e p="vThirdPersonCamera.cs" t="Include" />
+                <e p="vThirdPersonCameraExtensions.cs" t="Include" />
+                <e p="vThirdPersonCameraListData.cs" t="Include" />
+                <e p="vThirdPersonCameraState.cs" t="Include" />
+              </e>
+              <e p="CharacterController" t="Include">
+                <e p="Actions" t="Include">
+                  <e p="vActionListener.cs" t="Include" />
+                  <e p="vGenericAction.cs" t="Include" />
+                  <e p="vGenericActionReceiver.cs" t="Include" />
+                  <e p="vGenericAnimation.cs" t="Include" />
+                  <e p="vLadderAction.cs" t="Include" />
+                  <e p="vTriggerActionEvent.cs" t="Include" />
+                  <e p="vTriggerGenericAction.cs" t="Include" />
+                  <e p="vTriggerLadderAction.cs" t="Include" />
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="Resources" t="Include">
+                    <e p="vEditorStartupPrefs.cs" t="Include" />
+                  </e>
+                  <e p="vGenericInputDrawer.cs" t="Include" />
+                  <e p="vGenericInputSelector.cs" t="Include" />
+                  <e p="vInvectorStartup.cs" t="Include" />
+                  <e p="vInvectorWelcomeWindow.cs" t="Include" />
+                  <e p="vThirdPersonControllerEditor.cs" t="Include" />
+                </e>
+                <e p="vAnimatorParameter.cs" t="Include" />
+                <e p="vAnimatorStateInfo.cs" t="Include" />
+                <e p="vCharacter.cs" t="Include" />
+                <e p="vGameController.cs" t="Include" />
+                <e p="vHUDController.cs" t="Include" />
+                <e p="vICharacter.cs" t="Include" />
+                <e p="vInput.cs" t="Include" />
+                <e p="vOnDeadTrigger.cs" t="Include" />
+                <e p="vThirdPersonAnimator.cs" t="Include" />
+                <e p="vThirdPersonController.cs" t="Include" />
+                <e p="vThirdPersonInput.cs" t="Include" />
+                <e p="vThirdPersonMotor.cs" t="Include" />
+              </e>
+              <e p="CharacterCreator" t="Include">
+                <e p="Script" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vBasicMenuComponent.cs" t="Include" />
+                    <e p="vCreateBasicCharacterEditor.cs" t="Include" />
+                    <e p="vHelperEditor.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="FootStep" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vAudioSurfaceEditor.cs" t="Include" />
+                  <e p="vFootStepEditor.cs" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="vAudioSurface.cs" t="Include" />
+                  <e p="vAudioSurfaceControl.cs" t="Include" />
+                  <e p="vFisherYatesRandom.cs" t="Include" />
+                  <e p="vFootPlantingPlayer.cs" t="Include" />
+                  <e p="vFootStep.cs" t="Include" />
+                  <e p="vFootStepHandler.cs" t="Include" />
+                  <e p="vFootStepTrigger.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Generic" t="Include">
+                <e p="Animator" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vAnimatorEventEditor.cs" t="Include" />
+                    <e p="vAnimatorTagAdvancedEditor.cs" t="Include" />
+                    <e p="vAnimatorTagEditor.cs" t="Include" />
+                  </e>
+                  <e p="vAnimatorEvent.cs" t="Include" />
+                  <e p="vAnimatorEventReceiver.cs" t="Include" />
+                  <e p="vAnimatorIncreaseDecreaseValue.cs" t="Include" />
+                  <e p="vAnimatorResetTrigger.cs" t="Include" />
+                  <e p="vAnimatorSetBool.cs" t="Include" />
+                  <e p="vAnimatorSetFloat.cs" t="Include" />
+                  <e p="vAnimatorSetInt.cs" t="Include" />
+                  <e p="vAnimatorSetTrigger.cs" t="Include" />
+                  <e p="vAnimatorSetValue.cs" t="Include" />
+                  <e p="vAnimatorTag.cs" t="Include" />
+                  <e p="vAnimatorTagAdvanced.cs" t="Include" />
+                  <e p="vAnimatorTagBase.cs" t="Include" />
+                  <e p="vTriggerSoundByState.cs" t="Include" />
+                </e>
+                <e p="Attributes" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vBarDisplayAttributeDrawer.cs" t="Include" />
+                    <e p="vButtonDrawer.cs" t="Include" />
+                    <e p="vCheckPropertyDrawer.cs" t="Include" />
+                    <e p="vHelpBoxDecorator.cs" t="Include" />
+                    <e p="vHideInInspectorDrawer.cs" t="Include" />
+                    <e p="vMinMaxAttributeDrawer.cs" t="Include" />
+                    <e p="vReadOnlyAttributeDrawer.cs" t="Include" />
+                    <e p="vSeparatorDrawer.cs" t="Include" />
+                    <e p="vTagMaskDrawer.cs" t="Include" />
+                    <e p="vToggleOptionAttributeDrawer.cs" t="Include" />
+                  </e>
+                  <e p="vBarDisplayAttribute.cs" t="Include" />
+                  <e p="vButtonAttribute.cs" t="Include" />
+                  <e p="vCheckPropertyAttribute.cs" t="Include" />
+                  <e p="vClassHeaderAttribute.cs" t="Include" />
+                  <e p="vEditorToolbarAttribute.cs" t="Include" />
+                  <e p="vHelpBoxAttribute.cs" t="Include" />
+                  <e p="vHideInInspectorAttribute.cs" t="Include" />
+                  <e p="vMinMaxAttribute.cs" t="Include" />
+                  <e p="vReadOnlyAttribute.cs" t="Include" />
+                  <e p="vSeparator.cs" t="Include" />
+                  <e p="vToggleOptionAttribute.cs" t="Include" />
+                </e>
+                <e p="BodySnapSystem" t="Include">
+                  <e p="Scripts" t="Include">
+                    <e p="Editor" t="Include">
+                      <e p="vBodySnappingControlEditor.cs" t="Include" />
+                      <e p="vBodyStructEditor.cs" t="Include" />
+                      <e p="vSnapToBodyEditor.cs" t="Include" />
+                    </e>
+                    <e p="vBodySnappingControl.cs" t="Include" />
+                    <e p="vBodyStruct.cs" t="Include" />
+                    <e p="vSnapToBody.cs" t="Include" />
+                  </e>
+                </e>
+                <e p="Editor" t="Include">
+                  <e p="InvectorDefineSymbolsManager.cs" t="Include" />
+                  <e p="vBasicControllerDefineSymbols.cs" t="Include" />
+                  <e p="vEditorHelper.cs" t="Include" />
+                  <e p="vInvectorIcon.cs" t="Include" />
+                </e>
+                <e p="Health" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vDamageModifierDrawer.cs" t="Include" />
+                  </e>
+                  <e p="v_SpriteHealth.cs" t="Include" />
+                  <e p="vDamageModifier.cs" t="Include" />
+                  <e p="vDamageModifierController.cs" t="Include" />
+                  <e p="vHealthController.cs" t="Include" />
+                  <e p="vHealthItem.cs" t="Include" />
+                  <e p="vIDamageReceiver.cs" t="Include" />
+                  <e p="vIHealthController.cs" t="Include" />
+                </e>
+                <e p="Interactables" t="Include">
+                  <e p="vPendulum.cs" t="Include" />
+                  <e p="vPickupItem.cs" t="Include" />
+                  <e p="vPlatform.cs" t="Include" />
+                  <e p="vPunchingBag.cs" t="Include" />
+                  <e p="vSimpleDoor.cs" t="Include" />
+                </e>
+                <e p="Triggers" t="Include">
+                  <e p="vChangeCameraAngleTrigger.cs" t="Include" />
+                  <e p="vChangeInputTypeTrigger.cs" t="Include" />
+                  <e p="vCheckpointExample.cs" t="Include" />
+                  <e p="vDestroyOnTrigger.cs" t="Include" />
+                  <e p="vFindSpawnPoint.cs" t="Include" />
+                  <e p="vJumpMultiplierTrigger.cs" t="Include" />
+                  <e p="vLoadLevel.cs" t="Include" />
+                  <e p="vLoadLevelHelper.cs" t="Include" />
+                  <e p="vSimpleTrigger.cs" t="Include" />
+                  <e p="vSimpleTriggerWithInput.cs" t="Include" />
+                  <e p="vTriggerChangeCameraState.cs" t="Include" />
+                  <e p="vTutorialTextTrigger.cs" t="Include" />
+                </e>
+                <e p="Utils" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="vBasicUtilsMenu.cs" t="Include" />
+                    <e p="vCheckForProjectSettings.cs" t="Include" />
+                    <e p="vCommentEditor.cs" t="Include" />
+                  </e>
+                  <e p="vChangeAnimatorUpdateMode.cs" t="Include" />
+                  <e p="vCharacterExtensions.cs" t="Include" />
+                  <e p="vComment.cs" t="Include" />
+                  <e p="vDestroyChildrens.cs" t="Include" />
+                  <e p="vDestroyGameObject.cs" t="Include" />
+                  <e p="vEnableDisableEvent.cs" t="Include" />
+                  <e p="vEntityPreview.cs" t="Include" />
+                  <e p="vEventWithDelay.cs" t="Include" />
+                  <e p="vExtensions.cs" t="Include" />
+                  <e p="vFadeCanvas.cs" t="Include" />
+                  <e p="vFrameLimiter.cs" t="Include" />
+                  <e p="vHitDamageParticle.cs" t="Include" />
+                  <e p="vImageColorChange.cs" t="Include" />
+                  <e p="vInstantiate.cs" t="Include" />
+                  <e p="vLookAtCamera.cs" t="Include" />
+                  <e p="vMessageReceiver.cs" t="Include" />
+                  <e p="vMessageSender.cs" t="Include" />
+                  <e p="vMonoBehaviour.cs" t="Include" />
+                  <e p="vMousePositionHandler.cs" t="Include" />
+                  <e p="vMultToogleEvent.cs" t="Include" />
+                  <e p="vObjectContainer.cs" t="Include" />
+                  <e p="vPingPongRotation.cs" t="Include" />
+                  <e p="vPlayRandomClip.cs" t="Include" />
+                  <e p="vRemoveParent.cs" t="Include" />
+                  <e p="vResetTransform.cs" t="Include" />
+                  <e p="vRotateObject.cs" t="Include" />
+                  <e p="vRotateToTarget.cs" t="Include" />
+                  <e p="vScaleControl.cs" t="Include" />
+                  <e p="vSetParent.cs" t="Include" />
+                  <e p="vSetParentOfController.cs" t="Include" />
+                  <e p="vSetTransform.cs" t="Include" />
+                  <e p="vSkyboxFade.cs" t="Include" />
+                  <e p="vSliderSizeControl.cs" t="Include" />
+                  <e p="vTagMask.cs" t="Include" />
+                  <e p="vTargetLookAt.cs" t="Include" />
+                  <e p="vTeleport.cs" t="Include" />
+                  <e p="vTimerCounter.cs" t="Include" />
+                  <e p="vUIIndicatorPosition.cs" t="Include" />
+                  <e p="vUpdateUIPosition.cs" t="Include" />
+                </e>
+                <e p="vDebugUtils.cs" t="Include" />
+                <e p="vEnableDisableByInputDevice.cs" t="Include" />
+                <e p="vEnableRandomObject.cs" t="Include" />
+                <e p="vSetAnimatorLayerWeight.cs" t="Include" />
+                <e p="vSetRandomFloat.cs" t="Include" />
+              </e>
+              <e p="HeadTrack" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vLookTargetEditor.cs" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="vHeadTrack.cs" t="Include" />
+                  <e p="vHeadTrackSensor.cs" t="Include" />
+                  <e p="vLookTarget.cs" t="Include" />
+                </e>
+              </e>
+              <e p="IK" t="Include">
+                <e p="vIKSolver.cs" t="Include" />
+              </e>
+              <e p="ObjectDamage" t="Include">
+                <e p="vDamage.cs" t="Include" />
+                <e p="vObjectDamage.cs" t="Include" />
+                <e p="vSpike" t="Include">
+                  <e p="vSpike.cs" t="Include" />
+                  <e p="vSpikeControl.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Ragdoll" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="vRagdollBuilder.cs" t="Include" />
+                </e>
+                <e p="vDamageReceiver.cs" t="Include" />
+                <e p="vIRagdollListener.cs" t="Include" />
+                <e p="vRagdoll.cs" t="Include" />
+                <e p="vRagdollCollision.cs" t="Include" />
+                <e p="vRagdollGenericTemplate.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Top Down Camera" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CameraParent.cs" t="Include" />
+            <e p="ExampleScript.cs" t="Include" />
+            <e p="ObstructionMat.cs" t="Include" />
+            <e p="ObstructionObj.cs" t="Include" />
+            <e p="ObstructionObject.cs" t="Include" />
+            <e p="PanHelperScript.cs" t="Include" />
+            <e p="ScreenShake.cs" t="Include" />
+            <e p="TopDownCamera.cs" t="Include" />
+          </e>
+          <e p="Standard Assets" t="Include">
+            <e p="Characters" t="Include">
+              <e p="ThirdPersonCharacter" t="Include">
+                <e p="Scripts" t="Include">
+                  <e p="AICharacterControl.cs" t="Include" />
+                  <e p="ThirdPersonCharacter.cs" t="Include" />
+                  <e p="ThirdPersonUserControl.cs" t="Include" />
+                </e>
+                <e p="ThirdPersonCharacterGuidelines.txt" t="Include" />
+              </e>
+            </e>
+            <e p="CrossPlatformInput" t="Include">
+              <e p="CrossPlatformInputGuidelines.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="AxisTouchButton.cs" t="Include" />
+                <e p="ButtonHandler.cs" t="Include" />
+                <e p="CrossPlatformInputManager.cs" t="Include" />
+                <e p="InputAxisScrollbar.cs" t="Include" />
+                <e p="Joystick.cs" t="Include" />
+                <e p="MobileControlRig.cs" t="Include" />
+                <e p="PlatformSpecific" t="Include">
+                  <e p="MobileInput.cs" t="Include" />
+                  <e p="StandaloneInput.cs" t="Include" />
+                </e>
+                <e p="TiltInput.cs" t="Include" />
+                <e p="TouchPad.cs" t="Include" />
+                <e p="VirtualInput.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="NavemshBest.sln" t="IncludeFlat" />
+      <e p="NavMeshComponents.csproj" t="IncludeRecursive" />
+      <e p="NavMeshComponentsEditor.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
